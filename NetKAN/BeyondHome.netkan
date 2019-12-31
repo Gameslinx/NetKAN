@@ -1,0 +1,12 @@
+{
+    "spec_version": "v1.4",
+    "identifier":   "BeyondHome",
+    "x_netkan_epoch": 1,
+    "$kref":        "#/ckan/netkan/https://raw.githubusercontent.com/Gameslinx/BeyondHomePlanetMod/master/GameData/BeyondHome/BeyondHome.netkan",
+    "x_netkan_license_ok": true,
+   "tags":[ 
+      "config",
+      "planets",
+      "planet-pack"
+   ]
+}
